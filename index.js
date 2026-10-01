@@ -415,5 +415,5 @@ client.on("message", message => {
 
 
 //** TOKEN **//
-client.login(`token-aqui`);
+client.login(`1025111826125574305`);
 //** TOKEN **//
